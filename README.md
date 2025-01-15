@@ -1,6 +1,9 @@
 # Recipe-Card-F.E.M.
 Challenge from FrontEnd Mentor.
 
+# Time spent:
+1 day, just under 3 hours.
+
 ### Screenshot of my finished project
 
 ![Untitled](https://github.com/user-attachments/assets/1dc78324-72e4-4ba6-8cf6-ab394cdbf45a)
