@@ -6,7 +6,8 @@ Challenge from FrontEnd Mentor.
 
 ### Screenshot of my finished project
 
-![Untitled](https://github.com/user-attachments/assets/1dc78324-72e4-4ba6-8cf6-ab394cdbf45a)
+![image](https://github.com/user-attachments/assets/282ea316-8e2d-4ec4-a510-18105f005370)
+
 
 
 
