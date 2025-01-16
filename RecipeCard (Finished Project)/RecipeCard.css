@@ -97,10 +97,13 @@ p, li, label{
     content: counter(num) ". "; 
     color: hsl(14, 45%, 36%);
     font-weight: bold; 
+    position: absolute;
 } 
 #instructions li span{
     position: relative;
     left: 10px;
+    margin-left: 22px;
+    display: inline-block;
 }
 
 
