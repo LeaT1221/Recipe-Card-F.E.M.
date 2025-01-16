@@ -1,4 +1,4 @@
-# Recipe-Card-F.E.M.
+# Recipe-Card-FEM
 Challenge from FrontEnd Mentor.
 
 # Time spent:
